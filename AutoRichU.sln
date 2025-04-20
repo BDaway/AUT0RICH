@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRichU", "AutoRichU\AutoRichU.csproj", "{B1D2BD81-5F44-438A-819B-35D303D372C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRichU2", "AutoRichU2\AutoRichU2.csproj", "{CD55DAC4-DEAA-475F-B07B-BF1744CB8FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D2BD81-5F44-438A-819B-35D303D372C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D2BD81-5F44-438A-819B-35D303D372C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D2BD81-5F44-438A-819B-35D303D372C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D2BD81-5F44-438A-819B-35D303D372C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD55DAC4-DEAA-475F-B07B-BF1744CB8FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD55DAC4-DEAA-475F-B07B-BF1744CB8FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD55DAC4-DEAA-475F-B07B-BF1744CB8FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD55DAC4-DEAA-475F-B07B-BF1744CB8FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB1792F-F90F-4DE4-8D37-8ECE9C332709}
+	EndGlobalSection
+EndGlobal
